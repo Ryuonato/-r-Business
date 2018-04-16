@@ -1,2 +1,2 @@
-# -r-Business
+# r/Business
 My homework from Internship Application
